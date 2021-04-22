@@ -44,7 +44,7 @@ css = """     @import url(https://fonts.googleapis.com/css?family=Lato:300,400,7
 def hello_world():
 
     # return 'Hello, World!'
-    return "<style>"+css+"</style>" + tbbt.get()
+    return "<style>"+css+"</style>" + get()
 
 
 if __name__ == "__main__":
