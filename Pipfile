@@ -8,6 +8,9 @@ tabulate = "*"
 Flask = "*"
 requests = "*"
 bs4 = "*"
+uWSGI = "*"
+Flask-RESTful = "*"
+Flask-SQLAlchemy = "*"
 
 [dev-packages]
 
