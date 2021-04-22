@@ -1,6 +1,5 @@
 uwsgi
 Flask
-Flask-RESTful
 tabulate
 bs4
 requests
